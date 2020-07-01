@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6677-A45F
+
+ Directory of C:\Users\Mmala\Desktop\Free-CRM
+
+06/30/2020  10:09 PM    <DIR>          .
+06/30/2020  10:09 PM    <DIR>          ..
+06/30/2020  10:04 PM                 0 dir
+06/30/2020  10:05 PM                15 text1.txt
+06/30/2020  10:05 PM                25 text2.txt
+06/30/2020  10:09 PM                 0 text4.txt
+               4 File(s)             40 bytes
+               2 Dir(s)  187,296,813,056 bytes free
